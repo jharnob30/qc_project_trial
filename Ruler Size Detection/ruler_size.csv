@@ -1,0 +1,34 @@
+﻿images_file,labels_file,class,size_inch
+data/images/Dirty at sleeve End table @Aяzone.jpg,data/labels/Dirty at sleeve End table @Aяzone.txt,2,8
+data/images/Dirty at sleeve.CP-2.@A яzone.jpg,data/labels/Dirty at sleeve.CP-2.@A яzone.txt,2,5
+data/images/Dirty mark at Bottom End table @AяZone..jpg,data/labels/Dirty mark at Bottom End table @AяZone..txt,2,7.2
+data/images/Dirty mark at back End table @Aяzone.jpg,data/labels/Dirty mark at back End table @Aяzone.txt,2,5.7
+data/images/Dirty mark at back part End tableя@Aяzone.jpg,data/labels/Dirty mark at back part End tableя@Aяzone.txt,2,6.4
+data/images/Dirty mark at back part End tableя@Bяzone.jpg,data/labels/Dirty mark at back part End tableя@Bяzone.txt,2,4.5
+data/images/Dirty mark at back part outside-finishing.jpg,data/labels/Dirty mark at back part outside-finishing.txt,2,8
+data/images/Dirty mark at back part outside-finishing2.jpg,data/labels/Dirty mark at back part outside-finishing2.txt,2,6.2
+data/images/Dirty mark at back part outside-finishing3.jpg,data/labels/Dirty mark at back part outside-finishing3.txt,2,9
+"data/images/Dirty mark at clr nk,outside-finishing.jpg","data/labels/Dirty mark at clr nk,outside-finishing.txt",2,6.8
+"data/images/Dirty mark at clr nk,outside-finishing2.jpg","data/labels/Dirty mark at clr nk,outside-finishing2.txt",2,6.8
+"data/images/Dirty mark at clr, inside finishing.jpg","data/labels/Dirty mark at clr, inside finishing.txt",2,7
+data/images/Dirty mark at collar End table @Aяzone.jpg,data/labels/Dirty mark at collar End table @Aяzone.txt,2,4.8
+data/images/Dirty mark at collar.CP-2.@Bяzone.jpg,data/labels/Dirty mark at collar.CP-2.@Bяzone.txt,2,6.1
+data/images/Dirty mark at cuff End table @A.яZone.jpg,data/labels/Dirty mark at cuff End table @A.яZone.txt,2,5
+data/images/Dirty mark at cuff End table @Aяяzone.jpg,data/labels/Dirty mark at cuff End table @Aяяzone.txt,2,6.1
+data/images/Dirty mark at cuff End table @Bяzone..jpg,data/labels/Dirty mark at cuff End table @Bяzone..txt,2,8
+data/images/Dirty mark at cuff-  End table @яBяzone.jpg,data/labels/Dirty mark at cuff-  End table @яBяzone.txt,2,7.3
+data/images/Dirty mark at cuff. End table @BяZone.jpg,data/labels/Dirty mark at cuff. End table @BяZone.txt,2,7
+data/images/Dirty mark at front part End table @Aяzone..jpg,data/labels/Dirty mark at front part End table @Aяzone..txt,2,7.5
+"data/images/Dirty mark at front part, inside finishing.jpg","data/labels/Dirty mark at front part, inside finishing.txt",2,8
+"data/images/Dirty mark at front part,outside-finishing.jpg","data/labels/Dirty mark at front part,outside-finishing.txt",2,4.7
+data/images/Dirty mark at side seam End table @Bяzone. 2.jpg,data/labels/Dirty mark at side seam End table @Bяzone. 2.txt,2,6.5
+data/images/Dirty mark at side seam End table @Bяzone..jpg,data/labels/Dirty mark at side seam End table @Bяzone..txt,2,6.2
+"data/images/Dirty mark at side seam, outside-finishing.jpg","data/labels/Dirty mark at side seam, outside-finishing.txt",2,6
+"data/images/Dirty mark at size label, inside-finishing.jpg","data/labels/Dirty mark at size label, inside-finishing.txt",2,6
+data/images/Dirty mark at sleeve End table @Aяzone.jpg,data/labels/Dirty mark at sleeve End table @Aяzone.txt,2,6.1
+data/images/Dirty mark at sleeve.CP-2.@Bяzone.jpg,data/labels/Dirty mark at sleeve.CP-2.@Bяzone.txt,2,9
+data/images/Dirty mark at top center End tableя@Bяzone.jpg,data/labels/Dirty mark at top center End tableя@Bяzone.txt,2,6.1
+data/images/Dirty mark at top center End tableя@Bяzone2.jpg,data/labels/Dirty mark at top center End tableя@Bяzone2.txt,2,6.1
+"data/images/Dirty mark at top centre, outside-finishing.jpg","data/labels/Dirty mark at top centre, outside-finishing.txt",2,5.9
+"data/images/Dirty mark at top centre,inside-finishing.jpg","data/labels/Dirty mark at top centre,inside-finishing.txt",2,8
+data/images/Dirty mark top center End table @Aяzone.jpg,data/labels/Dirty mark top center End table @Aяzone.txt,2,5
