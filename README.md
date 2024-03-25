@@ -17,7 +17,7 @@ Although the dataset needs to be standardized and properly categorized for the b
 02. Download the dataset from the same folder given used dataset (already augmented,splitted and annotated) used dataset in the initial obj detection.<Br/>
   - 2.1. Or download this "dirty_marks_detection_yolov9_71" dataset, has all the 71 dirty marks images annotated. To train one can use this dataset directly to train only.<Br/>
   - 2.2. or Download this (2.1) dataset and split in 'val' and 'train' data. For this script for splitting needed. The current code doesnt have the dataset preprocessing scripts.<Br/>
-  - 2.3. Or Download visu02 folder to collect raw images from dataset directory "Dataset\Category3-Styling\VISU02" Here scopes of work is (Load, Annotate, Resize, Augment, Split, update yaml file accordingly)<Br/>
+  - 2.3. Or Download visu02 folder to collect raw images from dataset directory "Dataset\Category3-Styling\VISU02" Here scopes of work is (Load, Annotate, Resize, Augment, Split, create yaml file accordingly)<Br/>
 03. Upload dataset and ipynb file into google drive. <br/>
 04. Run ipynb file on colab. <br/>
 05. Mount drive in the script to access dataset <br/> or load dataset in the "/content" of colab and use cloud temporary storage just to play around without saving anything to drive.
