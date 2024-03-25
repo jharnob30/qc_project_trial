@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Dirty_mark']
+
+roboflow:
+  workspace: qcdirtymarks-annotation
+  project: dirty_marks_detection-2
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/qcdirtymarks-annotation/dirty_marks_detection-2/dataset/10

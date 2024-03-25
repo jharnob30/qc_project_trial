@@ -1,0 +1,5 @@
+item {
+    name: "Dirty_mark",
+    id: 1,
+    display_name: "Dirty_mark"
+}
